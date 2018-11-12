@@ -1,0 +1,20 @@
+server:
+  port: 8081
+  context-path: /hello
+person:
+  name: 张世奇
+  age: 20
+  pet:
+    name: 阿然
+    sex: male
+  hobbys:
+    - 游泳
+    - 唱歌
+    - 看书
+  childs:
+    - name: 孙万忠
+      age: 10
+    - name: 张志强
+      age: 21
+
+
